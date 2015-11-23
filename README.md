@@ -1,4 +1,4 @@
-# You_are_Pokemon_Master
+# You_are_the_Pokemon_Master
 実行すると現在確認されている718種類（カロス地方まで）のポケ◯ンすべてを手に入れポケモ◯マスターになれるスクリプト
 
 `npm install`
